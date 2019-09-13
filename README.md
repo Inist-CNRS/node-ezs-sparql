@@ -1,5 +1,9 @@
 # node-ezs-sparql
 
+> **Warning**: this package has been renamed to [@ezs/sparql](https://github.com/Inist-CNRS/ezs/tree/master/packages/istex).
+>
+> It will no more be maintained here, but in the [Inist-CNRS/ezs](https://github.com/Inist-CNRS/ezs/tree/master/packages/istex) repository.
+
 SPARQL module for ezs
 
 This package cannot be used alone. [ezs](https://www.npmjs.com/package/ezs) has to be installed
