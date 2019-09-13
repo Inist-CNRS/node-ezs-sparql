@@ -1,8 +1,8 @@
 # node-ezs-sparql
 
-> **Warning**: this package has been renamed to [@ezs/sparql](https://github.com/Inist-CNRS/ezs/tree/master/packages/istex).
+> **Warning**: this package has been renamed to [@ezs/sparql](https://github.com/Inist-CNRS/ezs/tree/master/packages/sparql).
 >
-> It will no more be maintained here, but in the [Inist-CNRS/ezs](https://github.com/Inist-CNRS/ezs/tree/master/packages/istex) repository.
+> It will no more be maintained here, but in the [Inist-CNRS/ezs](https://github.com/Inist-CNRS/ezs/tree/master/packages/sparql) repository.
 
 SPARQL module for ezs
 
